@@ -24,4 +24,4 @@ MODES = {
 TLS_DOMAIN = "cloudflare.com"
 
 # Tag for advertising, obtainable from @MTProxybot
-# AD_TAG = "3c09c680b76ee91a4c25ad51f742267d"
+AD_TAG = "cded575c304da847fe5378fd42834441"
